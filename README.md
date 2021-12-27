@@ -14,4 +14,4 @@ The purpose of this analysis is to determine if a prospective surf shop will be 
 <img width="178" alt="december_results" src="https://user-images.githubusercontent.com/91927712/147439154-5af12a27-4f0e-4b3f-8e90-e004e9b1ec8e.png">
 
 ## Summary
-
+The statistical analyses shows no more than an eight degree difference in temperatures between the months of June and December for all the descriptive statistic measurements. This eight degree difference is shown in the minimum temperature, while all the other descriptive statistics are closer in comparison. I would recommend exploring other factors that may influence the success of the surf shop like wind and wave conditions. In addition, Oahu is the third largest island Hawaii, so I would also recommend in exploring the geographic differences in temperatures, and wind and wave conditions on different parts on the island to determine if there is a more advantageous spot within the island to place the surf shop.
